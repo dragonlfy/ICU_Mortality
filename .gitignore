@@ -1,0 +1,12 @@
+__pycache__
+data/mimic3*
+data/tasks
+logs
+.vscode/
+data
+figure_2024/*
+HYJ/*
+*.csv
+*.png
+*.pdf
+.git2/*
